@@ -1,2 +1,5 @@
 /.vs
 /NExporter.Tester
+/NExporter.Core/obj
+/NExporter.Models/obj
+/NExporter.TemplateReader/obj
