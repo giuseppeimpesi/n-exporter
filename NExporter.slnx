@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="NExporter.Core\NExporter.Core.csproj" />
+  <Project Path="NExporter.Models/NExporter.Models.csproj" Id="ba7cd4fd-f903-4918-8b66-678af6b11c31" />
+  <Project Path="NExporter.TemplateReader/NExporter.TemplateReader.csproj" Id="46168761-2683-4829-aa61-8b1eb3ec11a6" />
+</Solution>
